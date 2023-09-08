@@ -1,13 +1,13 @@
-#This is weather forecasting website developed by the KCVARUNRAJ.
+#This is weather forecasting website developed by the # KCVARUNRAJ.
 
-Project Title: Weather Forecasting Website using React
+# Project Title: Weather Forecasting Website using React
 
-Project Description:
+# # Project Description:
 
 Introduction:
 The Weather Forecasting Website using React is a web development project undertaken as part of the Code Clause Web Development Internship program. This project aims to create a user-friendly and visually appealing website for providing weather forecasts to users. Leveraging the power of React, the project aims to deliver a seamless and responsive user experience for accessing weather information.
 
-Project Goals:
+# # Project Goals:
 The primary goals of this project are as follows:
 
 Real-time Weather Data: The website will fetch and display real-time weather data from a reliable weather API to ensure accuracy.
@@ -26,7 +26,7 @@ Geolocation: Utilize geolocation features to automatically detect the user's loc
 
 Integration with GitHub: The project will be hosted on GitHub, making it accessible for collaboration and version control.
 
-Technologies Used:
+# Technologies Used:
 
 React: The core framework for building the frontend of the website.
 HTML/CSS: For structuring and styling the website.
@@ -45,5 +45,5 @@ Visual Elements: Utilizing icons, charts, and graphs for visualizing weather dat
 Timeline:
 The project will be developed over the course of the internship program, with milestones and deliverables established at regular intervals.
 
-Conclusion:
+# Conclusion:
 The Weather Forecasting Website using React project is an exciting opportunity to showcase web development skills and create a valuable tool for users seeking accurate and up-to-date weather information. Through effective use of React and other technologies, the project aims to provide an engaging and informative user experience. With hosting on GitHub, it encourages collaboration and open-source development, aligning with the objectives of the Code Clause Web Development Internship program.
